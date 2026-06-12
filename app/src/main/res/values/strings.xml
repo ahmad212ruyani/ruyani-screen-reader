@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ruyani Screen Reader</string>
+
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_description">Ruyani Screen Reader adalah pembaca layar yang membantu pengguna tunanetra untuk menggunakan perangkat Android. Aplikasi ini membacakan elemen-elemen di layar menggunakan suara.</string>
+
+    <!-- Main Activity – Status -->
+    <string name="status_active">Layanan Aktif</string>
+    <string name="status_inactive">Layanan Tidak Aktif</string>
+    <string name="status_description_active">Ruyani Screen Reader sedang berjalan dan membacakan layar Anda.</string>
+    <string name="status_description_inactive">Aktifkan Ruyani Screen Reader di pengaturan aksesibilitas untuk mulai menggunakan.</string>
+
+    <!-- Main Activity – Buttons -->
+    <string name="btn_enable">Aktifkan Layanan</string>
+    <string name="btn_settings">Pengaturan</string>
+
+    <!-- Settings Activity -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="tts_engine">Mesin Suara (TTS)</string>
+    <string name="speech_rate">Kecepatan Bicara</string>
+    <string name="speech_pitch">Nada Suara</string>
+    <string name="test_speech">Tes Suara</string>
+    <string name="test_speech_text">Ini adalah suara percobaan Ruyani Screen Reader</string>
+    <string name="read_notifications">Baca Notifikasi</string>
+    <string name="vibration">Getaran</string>
+    <string name="focus_highlight">Sorotan Fokus</string>
+    <string name="section_others">Lainnya</string>
+    <string name="default_engine">Bawaan Sistem</string>
+
+    <!-- SeekBar labels -->
+    <string name="slow">Lambat</string>
+    <string name="fast">Cepat</string>
+    <string name="low">Rendah</string>
+    <string name="high">Tinggi</string>
+
+    <!-- Navigation Modes -->
+    <string name="nav_mode_all">Semua Elemen</string>
+    <string name="nav_mode_headings">Judul</string>
+    <string name="nav_mode_links">Tautan</string>
+    <string name="nav_mode_controls">Kontrol</string>
+    <string name="nav_mode_changed">Mode navigasi: %s</string>
+
+    <!-- Service toasts / announcements -->
+    <string name="service_started">Ruyani Screen Reader aktif</string>
+    <string name="service_stopped">Ruyani Screen Reader nonaktif</string>
+
+    <!-- Version -->
+    <string name="version_format">Versi %s</string>
+</resources>
